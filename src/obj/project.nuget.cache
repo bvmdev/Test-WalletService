@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "jdtMq+2AfmoFqo+4DWpZtFQN+OUBhKaZj3QwYEECbHSJk34GhiCgQ7Z9NEI5L+nwgXbGaRdilqnvfkDdzKiIdQ==",
+  "success": true,
+  "projectFilePath": "/Users/brunomartins/Source/TesteBancoCarrefour/github/Test-WalletService/src/WalletService.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunomartins/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.aspnetcore.openapi/8.0.4/microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.6/microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.6/microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.6/microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit/2.8.1/xunit.2.8.1.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit.analyzers/1.14.0/xunit.analyzers.1.14.0.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit.assert/2.8.1/xunit.assert.2.8.1.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit.core/2.8.1/xunit.core.2.8.1.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit.extensibility.core/2.8.1/xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "/Users/brunomartins/.nuget/packages/xunit.extensibility.execution/2.8.1/xunit.extensibility.execution.2.8.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requer MediatR (>= 11.0.0 && < 12.0.0), mas a versão MediatR 12.3.0 foi resolvida.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
